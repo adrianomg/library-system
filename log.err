@@ -1,0 +1,45 @@
+empresta-->00004-->36493545349
+ErroEmprestimo(Não há exemplares disponíveis para retirada do livro 00004)
+
+empresta-->00008-->52325874125
+ErroEmprestimo(Não há exemplares disponíveis para retirada do livro 00008)
+
+cadastra-->livro-->So Long, and Thanks for All the Fish-->Douglas Adams-->3333-->2
+ErroAno (O ano do livro precisa ser entre 0 e 2022), Ano = 3333 em So Long, and Thanks for All the Fish
+
+empresta-->00012-->75275345131
+ErroEmprestimo(Não há exemplares disponíveis para retirada do livro 00012)
+
+empresta-->00005-->52325874125
+ErroEmprestimo(Não há exemplares disponíveis para retirada do livro 00005)
+
+empresta-->00012-->52325874125
+ErroEmprestimo(Não há exemplares disponíveis para retirada do livro 00012)
+
+cadastra-->usuario-funcionario-->Guilherme Lancia-->2204673938-->3286817-->Administração Geral
+ErroCPF (Precisa ter 11 digitos!), CPF = 2204673938 em Guilherme Lancia
+
+cadastra-->usuario-funcionario-->Eliberto Reiffel-->70004A28903-->54758356-->Segurança
+ErroCPF (Precisa ser apenas números!), CPF = 70004A28903 em Eliberto Reiffel
+
+empresta-->00012-->75275345131
+ErroEmprestimo(Não há exemplares disponíveis para retirada do livro 00012)
+
+devolve-->00005-->52325874125
+ErroEmprestimo(Registro de empréstimo não encontrado: [codigo_livro = 00005] + [usuario = Adilson Breiro])
+
+cadastra-->usuario-aluno-->Rafaela Brador-->09685428903-->547A7836-->Segurança
+ErroMatricula (Precisa ser apenas números!), Matrícula = 547A7836 em Rafaela Brador
+
+empresta-->00015-->96837678910
+ErroEmprestimo(Não há exemplares disponíveis para retirada do livro 00015)
+
+empresta-->00015-->32315321353
+ErroEmprestimo(O usuário Genácio Herbackio possui multas pendentes.)
+
+empresta-->00012-->75275340033
+ErroDadoInexistente! 75275340033 não encontrado no registro de usuários
+
+empresta-->00012-->65478521458
+ErroEmprestimo(O usuário Juliana Bolizante possui multas pendentes.)
+
