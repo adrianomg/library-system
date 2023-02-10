@@ -1,4 +1,4 @@
-This is a basic implementation of a lybrary system in Python.
+This is a basic implementation of a library system in Python.
 
 This system was developed as a prototype of an assignment for the students of the Data-Oriented Programming course.
 
